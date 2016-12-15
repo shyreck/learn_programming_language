@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/add_two_sum.dir/main.c.o  -o add_two_sum -rdynamic 

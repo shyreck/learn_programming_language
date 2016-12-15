@@ -1,0 +1,2 @@
+/usr/bin/ar cr libmath_add.a  CMakeFiles/math_add.dir/add_two_int.c.o
+/usr/bin/ranlib libmath_add.a

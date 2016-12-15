@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/add_two_int.dir/add_two_int.c.o CMakeFiles/add_two_int.dir/main.c.o  -o add_two_int -rdynamic 
